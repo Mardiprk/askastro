@@ -34,14 +34,3 @@ npm run dev
 
 Visit [http://localhost:3000](http://localhost:3000) to explore AskAstro locally.
 
-## 📸 Preview
-
-<p align="center">
-  <img src="public/astro/astro1.jpg" width="200" />
-  <img src="public/astro/astro2.jpg" width="200" />
-  <img src="public/astro/astro3.jpg" width="200" />
-</p>
-
-## 📄 License
-
-MIT
